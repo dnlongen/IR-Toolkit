@@ -6,7 +6,7 @@
 * Email: david (at) securityforrealpeople.com
 * More info: https://www.securityforrealpeople.com/irtoolkit
 
-A collection of handy tools and scripts useful for computer incident response. With few exceptions, all tools are portable versions so the contents can be put ont a USB flash drive for easy use where needed. It should go without saying that an IR toolkit that will be used on suspected compromised systems should be read-only. I like Kanguru FlashBlu30 for its physical write-block switch and reasonable price, but others will do.
+A collection of handy tools and scripts useful for computer incident response. With few exceptions, all tools are portable versions so the contents can be put on a USB flash drive for easy use where needed. It should go without saying that an IR toolkit that will be used on suspected compromised systems should be read-only. I like Kanguru FlashBlu30 for its physical write-block switch and reasonable price, but others will do.
 
 * **WinPython:** Portable installation of Python with a myriad pre-installed packages, supporting the use of Python-based analysis scripts. Download your preferred flavor(s) of Python from https://winpython.github.io.
 * **RegistryExplorer:** Eric Zimmerman’s RegistryExplorer.exe (GUI) and RECmd.exe are small, fast Windows registry utility with strong searching capabilities. Find the latest version at https://ericzimmerman.github.io/
