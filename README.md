@@ -35,5 +35,5 @@ A collection of handy tools and scripts useful for computer incident response. W
 A few additional tools in my toolkit are not strictly incident response items, but come in handy when the right situation presents itself.
 
 * **Binwalk:** Analyze, reverse engineer, and extract contents from firmware binaries. Find the latest version along with documentation at https://github.com/devttys0/binwalk
-* **Burpsuite:** The free edition has a MITM web proxy, useful for inspecting and manipulating HTTP and HTTPS traffic to and from your browser. The commercial version adds many more testing and attack bells and whistles. 
+* **Burpsuite:** The free edition has a MITM web proxy, useful for inspecting and manipulating HTTP and HTTPS traffic to and from your browser. The commercial version adds many more testing and attack bells and whistles. Obtain the latest version from https://portswigger.net/
 * **3CDaemon:** 3Com's ancient TFTP/syslog/FTP client and server. Alas I am not aware of a trustworthy source for it today, but if you have it, it's worth dropping on your thumb drive as a (possibly) safer way to get files on and off a compromised system than using SMB or HTTP.
