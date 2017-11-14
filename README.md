@@ -30,7 +30,7 @@ A collection of handy tools and scripts useful for computer incident response. W
   * AlternateStreamView: GUI tool to see Alternate Data Streams, file content that may not be visible in the standard Windows file manager. See http://www.nirsoft.net/utils/alternate_data_streams.html for documentation.
   * USBDeview: list USB devices currently connected, as well as that were connected in the past.
   * HashMyFiles: Generate MD5, SHA-1, and SHA-256 hashes for a file or folder. Handy for hashing a suspect file to search VT for, instead of submitting a potentially revealing file.
-* **DumpIt:** (formerly windd32) take a snapshot of current memory. You'll need this before you can do any memory forensics. The product was previously produced by Moonsols, but is now Comea Technologies; DumpIt can be downloaded from https://blog.comae.io/your-favorite-memory-toolkit-is-back-f97072d33d5c
+* **DumpIt:** (formerly windd32) take a snapshot of current memory. You'll need this before you can do any memory forensics. The product was previously produced by Moonsols, but is now Comea Technologies; DumpIt can be downloaded from https://blog.comae.io/your-favorite-memory-toolkit-is-back-f97072d33d5c (free, but requires registration)
 
 A few additional tools in my toolkit are not strictly incident response items, but come in handy when the right situation presents itself.
 
