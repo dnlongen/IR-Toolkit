@@ -17,7 +17,8 @@ A collection of handy tools and scripts useful for computer incident response. W
   * procexp.exe: Process Explorer. Windows Task Manager alternative with considerably more features. Find what processes are using what files, registry keys, objects, etc.
   * procmon.exe: Process Monitor. Real time monitor foe file system, registry, and process/thread activity.
   * strings.exe: Search a binary file for human-readable strings in ASCII or UNICODE format.
-  * tcpview: Show listing of all TCP and UDP ports in use, and the process associated with each.
+  * tcpview.exe (GUI) or tcpvcon.exe (CLI): Show listing of all TCP and UDP ports in use, and the process associated with each.
+  * handle.exe: List the process that owns a handle to a file, port, or other open resorce.
 * **wget:** command-line, text-based web browser. Useful for downloading suspect links without risking exploitation. Note: some malicious websites will read the user agent string and deliver a benign payload or an error if it detects the default wget UA string. Use “wget –user-agent=AGENT” to spoof a particular browser or device.  Find a download mirror from the downloads list at the GNU project site: https://www.gnu.org/software/wget/faq.html#download. https://udger.com/resources/ua-list is a handy compilation of UA strings by browser, OS, and version.
 * **wireshark:** The ubiquitous packet capture utility, for network traffic capture and analysis. Note that wireshark itself comes in a PortableApps package, but the WinPCAP driver must be installed on the system that will collect packets. See https://www.wireshark.org/download.html for the latest Wireshark PortableApps version, and https://www.winpcap.org/install/default.htm for the latest WinPcap driver.
 * **exiftool.exe:** Extract EXIF metadata from images, PDFs, Office documents, etc. Obtain it from https://www.sno.phy.queensu.ca/~phil/exiftool/
