@@ -37,6 +37,9 @@ A collection of handy tools and scripts useful for computer incident response. W
   * USBDeview: list USB devices currently connected, as well as that were connected in the past. https://www.nirsoft.net/utils/usb_devices_view.html
   * HashMyFiles: Generate MD5, SHA-1, and SHA-256 hashes for a file or folder. Handy for hashing a suspect file to search VT for, instead of submitting a potentially revealing file. https://www.nirsoft.net/utils/hash_my_files.html
 * **DumpIt:** (formerly windd32) take a snapshot of current memory. You'll need this before you can do any memory forensics. The product was previously produced by Moonsols, but is now Comea Technologies; DumpIt can be downloaded from https://blog.comae.io/your-favorite-memory-toolkit-is-back-f97072d33d5c (free, but requires registration)
+* **7-zip:** Microsoft's built-in zip handler can't handle password-protected zip files.7-zip is a free/open source alternative available from https://www.7-zip.org/
+* **Sandboxie:** Sophos acquired this simple sandboxing tool a few years back, and promptly open-sourced it. Available from https://www.sandboxie.com/
+* **HxD:** Becsause every toolbox needs a hex editor, right? https://mh-nexus.de/en/
 
 A few additional tools in my toolkit are not strictly incident response items, but come in handy when the right situation presents itself.
 
